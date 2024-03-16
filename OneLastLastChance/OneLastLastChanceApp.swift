@@ -5,16 +5,21 @@
 //  Created by dara sroin on 14/3/2567 BE.
 //
 
+
+// starting point of the app
+// please run this one in order to execute the simulation
+ 
 import SwiftUI
 
 @main
 struct OneLastLastChanceApp: App {
-    let persistenceController = PersistenceController.shared
-
+    
+    let currentState = Current_State()
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
-                .environment(\.managedObjectContext, persistenceController.container.viewContext)
+            HomePage()
+                .environment(currentState)
         }
     }
 }
