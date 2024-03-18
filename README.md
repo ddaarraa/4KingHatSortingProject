@@ -7,5 +7,5 @@ https://drive.google.com/file/d/1qKvafo-ayPpTChiXo9iCHNa4_YAI45Xd/view?usp=share
 # And also provide you a tutorial clip in the attached link below
 https://youtu.be/ty3MAZhZAWc
 
-# I'd love to see any feedback from the user :
+# any feedbacks, please kindly drop in down to the link below :
 https://ngl.link/dara86612
